@@ -1,0 +1,6 @@
+arrays start at index 0
+
+.length --- return the length of an array 
+
+.push() --- add to the end of an array 
+    - you can put a new array into another array (nested array)
